@@ -1,6 +1,6 @@
 # Session Key Example
 
-This is the workshop code for ETH NYC where we go over a basic implementation of Session Keys, Sesion Validaion Modules, and tips on how to build your own session validation module. 
+This is the workshop code for Introduction to modules where we go over a basic implementation of Session Keys, Sesion Validaion Modules, and tips on how to build your own session validation module. 
 
 ## Getting Started
 
